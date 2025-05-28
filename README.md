@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeBB_Work_vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# DeBB_Work_frontend
+>>>>>>> 04ee73e4381d1b6abccf1dfbe2339e0223f9911a
